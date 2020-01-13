@@ -4,6 +4,8 @@ Tags: NLP
 
 ## Samples:
 ```python
+!pip install numerizer
+
 from numerizer import numerize
 
 print(numerize('One hundred fifteen')) #115
